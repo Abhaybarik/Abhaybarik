@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhaya kumar Barik</h1>
 <div align="center"> <img src="https://github.com/Abhaybarik/Abhaybarik/assets/124447595/0ed16e8a-7e22-47ec-a41a-525fc72e967e"> </div>
+<img align="right" alt="Coding" width="400" src="https://github.com/Abhaybarik/Abhaybarik/assets/124447595/aef07f0d-f516-4a6b-a7b6-9f4552b42463">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaybarik&label=Profile%20views&color=0e75b6&style=flat" alt="abhaybarik" /> </p>
