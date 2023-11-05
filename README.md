@@ -4,7 +4,7 @@
 ![Black Minimal Business Personal Profile Linkedin Banner (15)](https://github.com/Abhaybarik/Abhaybarik/assets/124447595/384cb809-5b13-41db-a9e8-d4387f2e2825)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaybarik&label=Profile%20views&color=0e75b6&style=flat" alt="abhaybarik" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://github.com/Abhaybarik/Abhaybarik/assets/124447595/fb19180e-9439-4827-b1ce-cce45d72c0aa)">
 
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
