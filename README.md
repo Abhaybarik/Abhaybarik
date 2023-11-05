@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhaya kumar Barik</h1>
-![Black Minimal Business Personal Profile Linkedin Banner (15)](https://github.com/Abhaybarik/Abhaybarik/assets/124447595/384cb809-5b13-41db-a9e8-d4387f2e2825)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaybarik&label=Profile%20views&color=0e75b6&style=flat" alt="abhaybarik" /> </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaybarik&label=Profile%20views&color=0e75b6&style=flat" alt="abhaybarik" /> </p>
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
