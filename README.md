@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Black Minimal Business Personal Profile Linkedin Banner (15)](https://github.com/Abhaybarik/Abhaybarik/assets/124447595/0ed16e8a-7e22-47ec-a41a-525fc72e967e)
+
 
 <!--
 **Abhaybarik/Abhaybarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
